@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948167988626",
+    "project_id": "expensesplitterapp-9331f",
+    "storage_bucket": "expensesplitterapp-9331f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948167988626:android:d0e88bf62e540c66c39d4b",
+        "android_client_info": {
+          "package_name": "com.example.expense_splitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5qfjUXNvKKBOlmLS73ixwef8JAIu6AZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
